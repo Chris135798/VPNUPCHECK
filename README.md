@@ -12,7 +12,7 @@ develop a bit more. What do you say?
 ## Features
 
 - **Automatic VPN detection** for ExpressVPN, Cisco Secure Client, and WireGuard
-- **Scheduled checks** at customizable intervals (15/30/60 minutes or at logon)
+- **Scheduled checks** at customizable intervals 
 - **Warning popup** when no VPN connection is detected
 - **System tray app** to quickly enable/disable checking
 - **No window flash** - runs completely hidden
