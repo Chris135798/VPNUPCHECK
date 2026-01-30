@@ -2,6 +2,9 @@
 
 A Windows utility that periodically checks if you're connected to a VPN and warns you if you're not. Supports ExpressVPN, Cisco Secure Client (AnyConnect), and WireGuard.
 
+This is my private version, created just for my needs and not so beautiful yet. If someone thinks it's a cool Idea and useful, I maybe 
+develop a bit more. What do you say?
+
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
